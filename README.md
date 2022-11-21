@@ -3,8 +3,6 @@
 
 <br/>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me:
 
   - **https://t.me/sapogoha**
