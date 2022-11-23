@@ -34,6 +34,6 @@
 
 ![CodeWars](https://www.codewars.com/users/Sapogoha/badges//small)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sapogoha)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapogoha)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapogoha&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapogoha&layout=compact)
