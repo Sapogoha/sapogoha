@@ -1,6 +1,6 @@
 # Hi there, I'm Alex 👋
 
-## React Developer and a really nice guy
+### React Developer and a really nice guy
 
 <br/>
 
