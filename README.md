@@ -2,9 +2,7 @@
 
 ### React Developer and a really nice guy
 
-<br/>
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently practicing **React**
 
 - 📫 How to reach me:
 
@@ -15,7 +13,6 @@
   - I'm fluent in English and Russian, however not as fluent as I wanna be in German.
   - In November 2022 I moved to a new - 5th for me - country to live. I've also visited another 15+ countries.
 
-<br/>
 
 ### Languages and Tools:
 
@@ -28,7 +25,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-<br/>
 <br/>
 
 
